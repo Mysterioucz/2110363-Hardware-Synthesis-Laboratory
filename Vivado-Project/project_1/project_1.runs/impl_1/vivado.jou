@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2024.2 (64-bit)
+# SW Build 5239630 on Fri Nov 08 22:35:27 MST 2024
+# IP Build 5239520 on Sun Nov 10 16:12:51 MST 2024
+# SharedData Build 5239561 on Fri Nov 08 14:39:27 MST 2024
+# Start of session at: Fri Jan 10 23:35:03 2025
+# Process ID         : 29276
+# Current directory  : E:/Chat/University/CU/Study/Year-2/2/HW_Syn/Vivado-Project/project_1/project_1.runs/impl_1
+# Command line       : vivado.exe -log blinky.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source blinky.tcl -notrace
+# Log file           : E:/Chat/University/CU/Study/Year-2/2/HW_Syn/Vivado-Project/project_1/project_1.runs/impl_1/blinky.vdi
+# Journal file       : E:/Chat/University/CU/Study/Year-2/2/HW_Syn/Vivado-Project/project_1/project_1.runs/impl_1\vivado.jou
+# Running On         : DESKTOP-EFTAMBR
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 22631
+# Processor Detail   : AMD Ryzen 7 5700G with Radeon Graphics         
+# CPU Frequency      : 3793 MHz
+# CPU Physical cores : 8
+# CPU Logical cores  : 16
+# Host memory        : 34223 MB
+# Swap memory        : 2147 MB
+# Total Virtual      : 36370 MB
+# Available Virtual  : 14294 MB
+#-----------------------------------------------------------
+source blinky.tcl -notrace
